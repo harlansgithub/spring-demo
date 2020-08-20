@@ -8,7 +8,8 @@ import javax.annotation.PostConstruct;
 public class MainClass {
     public static void main(String[] args) {
         AnnotationConfigApplicationContext ctx = new AnnotationConfigApplicationContext(MainConfig.class);
-        ctx.getBean("tulingDao");
+        TulingDao tulingDao = (TulingDao) ctx.getBean("tulingDao");
+        tulingDao.test();
 //        ctx.publishEvent(new ApplicationEvent("我手工发送了一个事件！") {
 //            @Override
 //            public Object getSource() {

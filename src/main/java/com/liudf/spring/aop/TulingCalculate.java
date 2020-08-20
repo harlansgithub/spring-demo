@@ -3,7 +3,6 @@ package com.liudf.spring.aop;
 public class TulingCalculate implements Calculate {
     @Override
     public int add(int a, int b) throws InterruptedException {
-        Math
         return a+b;
     }
 

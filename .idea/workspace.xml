@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d62142a1-ed2c-44de-861c-528db6d44152" name="Default Changelist" comment="" />
+    <list default="true" id="d62142a1-ed2c-44de-861c-528db6d44152" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liudf/spring/ioc/eventbus/EventBusFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liudf/spring/ioc/eventbus/EventBusRegisterPostProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liudf/spring/ioc/eventbus/EventBusService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liudf/spring/ioc/eventbus/EventOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liudf/spring/ioc/eventbus/EventThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liudf/spring/ioc/eventbus/EventTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liudf/spring/ioc/eventbus/Listener1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liudf/spring/aop/TulingCalculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liudf/spring/aop/TulingCalculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liudf/spring/ioc/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liudf/spring/ioc/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liudf/spring/ioc/MainConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liudf/spring/ioc/MainConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liudf/spring/ioc/TulingDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liudf/spring/ioc/TulingDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/liudf/spring/ioc/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liudf/spring/ioc/MainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/liudf/spring/ioc/MainConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liudf/spring/ioc/MainConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/liudf/spring/ioc/TulingDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liudf/spring/ioc/TulingDao.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,9 +72,6 @@
     <expand />
     <select />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="spring-demo" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -31,24 +79,21 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XaEFNsjfKb1S9a8vXnziMnmjyC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tuling-3-zhaoyun-elk/search-plantform" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -130,18 +175,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -198,122 +231,37 @@
       <workItem from="1588243734469" duration="323000" />
       <workItem from="1588768247253" duration="362000" />
       <workItem from="1589382678164" duration="773000" />
+      <workItem from="1597940723042" duration="2219000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#Project_Structure" timestamp="1581275805955">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1581275805955" />
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1587484340652">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587484340652" />
-    <state x="739" y="404" width="441" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583186048811">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="739" y="404" width="441" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1583186048811" />
-    <state x="584" y="301" width="763" height="596" key="#xdebugger.evaluate" timestamp="1583480435754">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="584" y="301" width="763" height="596" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1583480435754" />
-    <state width="1758" height="466" key="DebuggerActiveHint" timestamp="1583604232804">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1758" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1583604232804" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1584431289974">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584431289974" />
-    <state width="1877" height="305" key="GridCell.Tab.-1.bottom" timestamp="1581441681385">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="305" key="GridCell.Tab.-1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581441681385" />
-    <state width="1877" height="305" key="GridCell.Tab.-1.center" timestamp="1581441681385">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="305" key="GridCell.Tab.-1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581441681385" />
-    <state width="1877" height="305" key="GridCell.Tab.-1.left" timestamp="1581441681385">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="305" key="GridCell.Tab.-1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581441681385" />
-    <state width="1877" height="305" key="GridCell.Tab.-1.right" timestamp="1581441681385">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="305" key="GridCell.Tab.-1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581441681385" />
-    <state width="1877" height="521" key="GridCell.Tab.0.bottom" timestamp="1587655067355">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="521" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587655067355" />
-    <state width="1877" height="521" key="GridCell.Tab.0.center" timestamp="1587655067354">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="521" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587655067354" />
-    <state width="1877" height="521" key="GridCell.Tab.0.left" timestamp="1587655067353">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="521" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587655067353" />
-    <state width="1877" height="521" key="GridCell.Tab.0.right" timestamp="1587655067354">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="521" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587655067354" />
-    <state width="1877" height="586" key="GridCell.Tab.1.bottom" timestamp="1584289356606">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="586" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584289356606" />
-    <state width="1877" height="586" key="GridCell.Tab.1.center" timestamp="1584289356606">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="586" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584289356606" />
-    <state width="1877" height="586" key="GridCell.Tab.1.left" timestamp="1584289356606">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="586" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584289356606" />
-    <state width="1877" height="586" key="GridCell.Tab.1.right" timestamp="1584289356606">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="586" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584289356606" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1584297339161">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584297339161" />
-    <state x="485" y="183" width="564" height="367" key="StructurePopup" timestamp="1588040125942">
+    <state x="488" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1597942508364">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="485" y="183" width="564" height="367" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1588040125942" />
-    <state x="681" y="261" width="564" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1587549947995" />
-    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1583272723867">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1583272723867" />
+    <state x="488" y="68" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1597942508364" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1589382679067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589382679067" />
-    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583184450160">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="339" y="6" width="670" height="676" key="search.everywhere.popup" timestamp="1597942706972">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583184450160" />
-    <state x="510" y="321" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583222677505">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="510" y="321" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1583222677505" />
-    <state x="636" y="258" width="647" height="524" key="find.popup" timestamp="1581526087281">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="636" y="258" width="647" height="524" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581526087281" />
-    <state x="334" y="214" key="new project wizard" timestamp="1581350083871">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="334" y="214" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1581350083871" />
-    <state x="616" y="173" width="672" height="676" key="search.everywhere.popup" timestamp="1587654786551">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="173" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587654786551" />
+    <state x="339" y="6" width="670" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597942706972" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -473,6 +421,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/liudf/spring/ioc/BeanPostProcessor.java</url>
           <line>10</line>
           <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/liudf/spring/ioc/eventbus/Listener1.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/liudf/spring/ioc/MainClass.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="178" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

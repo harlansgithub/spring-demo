@@ -1,5 +1,6 @@
 package com.liudf.spring.ioc;
 
+import com.google.common.eventbus.EventBus;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
@@ -19,5 +20,8 @@ public class MainConfig {
         return new TestBeanPostProcess();
     }
 
-
+    @Bean
+    public EventBus getEventBus(){
+        return new EventBus();
+    }
 }
